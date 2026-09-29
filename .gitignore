@@ -1,0 +1,15 @@
+.venv/
+.local/
+active-project.json
+__pycache__/
+*.egg-info/
+dist/
+/uv.lock
+.pytest_cache/
+# The files below belong to the original machine-specific installation.
+/server.py
+/select_project.py
+/run_tunnel.ps1
+/start_tunnel_auto.ps1
+/enable_autostart.ps1
+/smoke_test.py
